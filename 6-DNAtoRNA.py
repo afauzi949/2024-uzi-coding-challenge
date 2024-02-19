@@ -17,3 +17,6 @@ print(dna_to_rna("GCAT"))
 print(dna_to_rna("TTTT"))
 print(dna_to_rna("GACCGCCGCC"))
 
+# def DNAtoRNA(dna):
+#     return dna.replace('T', 'U')  #fungsi replace
+
