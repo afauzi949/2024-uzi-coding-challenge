@@ -9,3 +9,4 @@ def countBy(x, n):
     return z
 
 print(countBy(2, 5))
+print(countBy(3, 9)
